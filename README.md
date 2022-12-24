@@ -1,4 +1,4 @@
-This one is my internship project which is based on HTML and CSS.
+<h3> This one is my internship project which is based on HTML and CSS. </h3>
 
 ## Project Title : Static Fully Responsive E-Commerce Website
 Preview:
